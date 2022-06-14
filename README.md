@@ -34,13 +34,10 @@ pip install torchfcn
 ```
 
 
-## Training
-
-See [VOC example](examples/voc).
+#Results
 
 
-<img src=".readme/fcn8s_iter28000.jpg" width="50%" />
-Visualization of validation result of FCN8s.
+
 
 
 
